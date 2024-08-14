@@ -10,7 +10,7 @@ This was the capstone project of my Data Structures in Java class at Columbia. I
 
 I cannot publicly share my code for this project. Posting my code would be violating my school's Academic Honesty Policy, as this project could be a future assignment for students taking this class in the future.
 
-With all that being said, if you are a recruiter or company that would like to see or go over my code with me, I would be more than estatic to share it with you privately. Please message me on [LinkedIn](www.linkedin.com/in/olivia-a-494759269) or right here on GitHub. Thank you!
+With all that being said, if you are a recruiter or company that would like to see or go over my code with me, I would be more than estatic to share it with you privately. Please message me on [LinkedIn]([www.linkedin.com/in/olivia-a-494759269](https://www.linkedin.com/in/olivia-a-494759269/)) or right here on GitHub. Thank you!
 
 ### Below is the specification guide given to me from my professor on what exactly my project was supposed to accomplish. It gives the do's and do nots, example outputs, etc. I will also include the test files they gave us. Please enjoy!
 
