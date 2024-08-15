@@ -4,9 +4,9 @@ Final Project Created Based on Learnings of Data Structures.
 ---
 
 ## Preview:
-This was the capstone project of my Data Structures in Java class at Columbia. It was a project that was meant to utilize almost all of our learnings over the semester. While I am very proud of my code, as I say with absolute honesty and humility that  
+This was the capstone project of my Data Structures in Java class at Columbia. It was a project that was meant to utilize almost all of our learnings over the semester. While I am very proud of my code,  
 
-### ***I recieved a perfect grade on this project***,   
+### ***as I say with absolute honesty and humility that I recieved a perfect grade on this project***,   
 
 I cannot publicly share my code for this project. Posting my code would be violating my school's Academic Honesty Policy, as this project could be a future assignment for students taking this class in the future.
 
