@@ -4,6 +4,7 @@ Final Project Created Based on Learnings of Data Structures.
 ---
 
 ## Preview:
+
 This was the capstone project of my Data Structures in Java class at Columbia. It was a project that was meant to utilize almost all of our learnings over the semester. While I am very proud of my code,  
 
 ***as I say with absolute honesty and humility that I recieved a perfect grade on this project***,   
@@ -16,7 +17,7 @@ With all that being said, if you are a recruiter or company that would like to s
 
 ---
 
-### Objective
+## Objective
 
 Your goal is to use several data structures and a sorting algorithm you developed this semester to develop a program that finds the word or words with the most anagrams. Insertion sort works well on small amounts of data, which is perfect for this task. BSTreeMap, RBTreeMap, and MyHashMap implement the MyMap interface. So, with proper
 object-oriented programming techniques, specifically the use of polymorphism, you can create any one of these data structures and refer to it from a MyMap reference. Though all
@@ -25,7 +26,7 @@ program’s execution to see how each of the data structures performs.
 
 ---
 
-### Problem
+## Problem
 
 You will develop a command line Java application to find the word or words with the most anagrams. An anagram is another word that uses all the characters of the given word, just in
 a different order or with a different capitalization. For instance, “tea” and “eat” are anagrams; “tae” and “aet” are merely permutations of the characters of the word and are
@@ -74,7 +75,7 @@ There ***must never be any whitespace characters***, such as extra spaces or tab
 
 ---
 
-### Sample Input / Output
+## Sample Input / Output
 
 For the supplied dictionary.txt file, the command:  
 ```
@@ -103,7 +104,7 @@ All words between [ and ] are on one line, despite it appearing on two above. Th
 
 ---
 
-### Requirements
+## Requirements
 
 You must use the supplied implementations of the BSTreeMap, RBTreeMap, and MyHashMap. You ***must not modify*** these files in any way. You must write all your code in MostAnagramsFinder.java. We will copy the source for the data structures into the same folder as your source code when grading your submission. If you wish to write additional
 classes to help you encapsulate the data you process, put the non-public class inside MostAnagramsFinder.java.
@@ -121,7 +122,7 @@ Any method implementing the insertion sort algorithm must be named "insertionSor
 
 ---
 
-### Timing Your Work and Evaluating the Results
+## Timing Your Work and Evaluating the Results
 
 After you are confident you are getting the correct output for smaller files, try processing the words.txt supplied in Canvas. It contains 466,550 words. Time it from the command line as follows:
 ```
